@@ -1,2 +1,3 @@
 Chapecó
 Concórdia
+Carazinho
