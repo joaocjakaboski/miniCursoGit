@@ -7,3 +7,4 @@ Paulo Bento
 Campinas do Sul
 Barra do Rio Azul
 Itatiba do Sul
+Áurea
